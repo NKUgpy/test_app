@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/ban1"
+    android:orientation="vertical"
+    tools:context="com.gpy111.app5.thirdActivity">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ban2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="版画（print），是视觉艺术的一个重要门类。广义的版画可以包括在印刷工业化以前所印制的图形普遍具有版画性质。当代版画的概念主要指由艺术家构思创作并且通过制版和印刷程序而产生的艺术作品，具体说是以刀或化学药品等在木、石、麻胶、铜、锌等版面上雕刻或蚀刻后印刷出来的图画。版画艺术在技术上是一直伴随着印刷术的发明与发展的。古代版画主要是指木刻，也有少数铜版刻和套色漏印。独特的刀味与木味使它在中国文化艺术史上具有独立的艺术价值与地位。
+20世纪30年代以前的版画仍然是复制版画，自1931年起，由鲁迅倡导的新兴木刻，开始有了我国创作的版画。新兴版画和古代复制版画不仅在制作技术上有很大差异，而且在作为艺术的功能与现实意义上也有质的区别。新兴版画从它诞生那天起，便和中华民族的解放事业紧密相关，与广大人民群众的命运血肉相连，它是中国革命文艺的一个重要组成部分，是30年代左翼美术的主力军。版画家是以艺术家和革命战士的双重身份出现在历史舞台上，毫不含糊地以艺术作为战斗的武器，在思想教育战线上发挥了巨大的作用。"
+        android:textColor="#FFFFFF"/>
+</LinearLayout>
